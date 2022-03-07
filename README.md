@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://i.imgur.com/SR8Y0SK.jpeg"><img src="https://i.ibb.co/Y2mXdR5/Abuser.jpg""width="300" height="300"/>
+  <a href="https://i.imgur.com/bRJYXKU.jpg"><img src="https://i.imgur.com/bRJYXKU.jpg""width="300" height="300"/>
     <p align="center">
     
     
