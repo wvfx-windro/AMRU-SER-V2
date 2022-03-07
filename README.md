@@ -1,17 +1,17 @@
-<a href="https://github.com/Afx-Abu"><img src="https://i.ibb.co/nPSmv7d/dd75acba3c0361cca99b05b1e5b6d5c6.png" alt="google-font" border="0"></a>
+<a href="https://github.com/Afx-Abu"><img src="https://i.imgur.com/W6iMjZ5.png" alt="google-font" border="0"></a>
 <div align="center">
 
 
 
 
 <div align="center">
-  <a href="https://www.linkpicture.com/q/rafi.png"><img src="https://i.ibb.co/Y2mXdR5/Abuser.jpg""width="300" height="300"/>
+  <a href="https://i.imgur.com/SR8Y0SK.jpeg"><img src="https://i.ibb.co/Y2mXdR5/Abuser.jpg""width="300" height="300"/>
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Abuser+WA+Bot...;Created+by+Abu....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
   
-<a href="#"><img title="Abuser_v2" src="https://img.shields.io/badge/-Abuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Sana-Mwol" src="https://img.shields.io/badge/-Abuser-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -29,13 +29,13 @@ Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it publi
 ----
 
   <p align="center">
-  <a href="https://github.com/Afx-Abu/Abuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/Afx-Abu/Abuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Afx-Abu/Sana-Mwol ">
+    <img src="https://img.shields.io/github/repo-size/Afx-Abu/Sana-Mwol?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Afx-Abu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Afx-Abu?color=grey&style=plastic"></a>
-<a href="https://github.com/Afx-Abu/Abuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Afx-Abu/Abuser?color=grey&style=plastic"></a>
-<a href="https://github.com/Afx-Abu/Abuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Afx-Abu/Abuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/Afx-Abu/Abuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Afx-Abu/Abuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Afx-Abu/Sana-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Afx-Abu/Abuser?color=grey&style=plastic"></a>
+<a href="https://github.com/Afx-Abu/Sana-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Afx-Abu/Sana-Mwol?color=grey&style=plastic"></a>
+<a href="https://github.com/Afx-Abu/Sana-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Afx-Abu/Sana-Mwol?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -60,13 +60,13 @@ Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it publi
     
 ```
     
-Abuser Userbot is Open Source software open to development. 
+Sana-Mwol Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Abuser Userbot is an 
+Usage is entirely the user's responsibility, Sana-Mwol Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
@@ -83,7 +83,7 @@ the user is responsible..
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Afx-Abu1/Abuser-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abuser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-Abu/Sana-Mwol)
      </div>
      [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
@@ -101,8 +101,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Afx-Abu/Abuser
-$ cd Abuser
+$ git clone https://github.com/Afx-Abu/Sana-Mwol
+$ cd Sana-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -111,8 +111,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Afx-Abu/Abuser
-$ cd Abuser
+$ git clone https://github.com/Afx-Abu/Sana-Mwol
+$ cd Sana-Mwol
 $ chmod +x *
 $ npm i
 $ node qr.js
