@@ -1,0 +1,7 @@
+build:
+  docker:
+      worker: /Sana/Dockerfile
+run:
+   worker: npm start
+   
+
