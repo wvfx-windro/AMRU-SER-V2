@@ -12,14 +12,14 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: 'command help menu'}, (a
 
     var r_text = new Array ();
     
-    r_text[0] = Config.ALL_IMG
+    r_text[0] = Config.LG_LOGO
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
-   ` + config.ALL_NAME + `
+   ` + config.LOGO_NAME + `
  
 🎗️ .xmedia
 💖 It is a plugin with more than 25 media tools._ 
