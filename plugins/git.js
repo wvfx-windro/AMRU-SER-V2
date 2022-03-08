@@ -27,15 +27,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: 'command help menu'}, (as
 *Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ* :` + config.GROUP + `*
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Afx-Abu/Abu_ser*
-
-
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/bgm*
-
-
-*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/stickers*
-
-*ᴛʜɪs ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ` + config.BOT + `*
+*Gɪᴛ Lɪɴᴋs* : https://github.com/wvfx-windro/AMRU-SER-V2
 
 `}) 
 
