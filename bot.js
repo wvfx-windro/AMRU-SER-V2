@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./Sana/');
+const {Message, StringSession, Image, Video} = require('./Amru/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💖 Sana Mwol bot working aan💖!')
+            chalk.green.bold('💖 Amru Ser V2 bot working aan💖!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -147,7 +147,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 if (commits.total === 0) {
                     await conn.sendMessage(conn.user.jid, fs.readFileSync("./uploads/sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ sᴀɴᴀ ᴍᴡᴏʟ  ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ  sᴀɴᴀ  ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪᴋᴋᴀʟᴇ😍*`});
                 } else {
-                    await conn.sendMessage(conn.user.jid, '*💖sᴀɴᴀ ᴍᴡᴏʟ sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖ᴀᴍʀᴜ sᴇʀ ᴠ2 ᴍᴡᴏʟ sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
                 }
             }
             else {
@@ -169,7 +169,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*💖sᴀɴᴀ ᴍᴡᴏʟ sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖ᴀᴍʀᴜ sᴇʀ ᴠ2 sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
                 }
 
             }
@@ -218,7 +218,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*💖sᴀɴᴀ ᴍᴡᴏʟ sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖ᴀᴍʀᴜ sᴇʀ ᴠ2 sᴛᴀʀᴛᴇᴅ💖*', MessageType.text);
                 }
             }
         }
@@ -376,8 +376,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*❤️𝚂𝙰𝙽𝙰 𝙼𝚆𝙾𝙻❤️*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥲 errors\njoin with \n https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk``` ' 
+                                await conn.sendMessage(conn.user.jid, '*❤️𝙰𝙼𝚁𝚄 𝚅2❤️*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥲 errors\njoin with \n https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z``` ' 
                                     , MessageType.text);
                             }
                         }
