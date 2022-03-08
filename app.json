@@ -1,14 +1,14 @@
 {
-    "name": "Sana-Mwol",
-    "description": "Sana is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
-    "logo": "https://i.imgur.com/2bWHUWI.jpg",
-    "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "ser", "bot", "ai"],
+    "name": "Amru Ser V2",
+    "description": "Amru Ser V2 is the Upgrade Version of Amru Ser V1, Made By @Amru with Baileys.",
+    "logo": "https://i.imgur.com/ltG4akj.jpeg",
+    "keywords": ["whatsapp", "userbot", "Amru", "WhatsAsena", "ser", "bot", "ai"],
     "repository": "https://github.com/wvfx-windro/AMRU-SER-V2",
-    "website":   "https://github.com/wvfx-windro/AMRU-SER-V2,
+    "website":   "https://github.com/wvfx-windro/AMRU-SER-V2,"
     "success_url": "https://github.com/wvfx-windro/AMRU-SER-V2",
     "stack": "container",
     "env": {
-        "SANA_SESSION": {
+        "AMRU_SESSION": {
             "description": "Type here yours Abu Session.",
             "required": true
         },
