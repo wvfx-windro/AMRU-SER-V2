@@ -27,7 +27,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       
       const buttonMessage = {
           contentText: 'Eda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda😂 ',
-          footerText: '© ᴀʙᴜ ™',
+          footerText: '© ᴀᴍʀᴜ™',
           buttons: buttons,
           headerType: 1
       }
