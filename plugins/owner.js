@@ -24,13 +24,13 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 	const buttons = [
 
         {buttonId: 'id1', buttonText: {displayText: ' 💝ʜɪ💝\n'  }, type: 1},
-        {buttonId: 'id2', buttonText: {displayText: ' 💝ᴘᴏʟɪ ᴀʟʟᴇ ᴀʙᴜ sᴇʀ💝 🌝 \n'  }, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: ' 💝ᴘᴏʟɪ ᴀʟʟᴇ ᴀᴍʀᴜ sᴇʀ💝 🌝 \n'  }, type: 1},
 
       ]
       
       const buttonMessage = {
           contentText: '╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜\n│💙 ` + config.OWNER + `\n╰───────────────𒈒',
-          footerText: '© ᴀʙᴜ sᴇʀ™',
+          footerText: '© ᴀᴍʀᴜ sᴇʀ™',
           buttons: buttons,
           headerType: 1
       }
