@@ -10,7 +10,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = " Config.ALL_IMG
+    r_text[0] = " Config.LG_LOGO
     
     
     var i = Math.floor(1*Math.random())
@@ -38,7 +38,7 @@ if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
-    ` + config.ALL_NAME + `
+    ` + config.LOGO_NAME + `
 ╭──────────────────╯
 │
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
