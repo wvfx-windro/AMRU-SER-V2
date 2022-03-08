@@ -1,25 +1,24 @@
-<a href="https://github.com/Afx-Abu"><img src="https://i.imgur.com/W6iMjZ5.png" alt="google-font" border="0"></a>
+
+
+
+
+
 <div align="center">
-
-
-
-
-<div align="center">
-  <a href="https://i.imgur.com/bRJYXKU.jpg"><img src="https://i.imgur.com/bRJYXKU.jpg""width="300" height="300"/>
+  <a href="https://i.imgur.com/ltG4akj.jpeg"><img src="https://i.imgur.com/ltG4akj.jpeg""width="300" height="300"/>
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐌𝐑𝐔+𝐒𝐄𝐑+𝐕2+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐌𝐑𝐔+𝐀𝐍𝐃+𝐖𝐈𝐍𝐃𝐑𝐎;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
   
-<a href="#"><img title="Sana-Mwol" src="https://img.shields.io/badge/-SANAMWOL-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Amru Ser V2" src="https://img.shields.io/badge/-AMRU SER V2-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Afx-Abu"><img title="Abu" src="https://img.shields.io/badge/author-Afx-Abu?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AMRUSIR"><img title="Abu" src="https://img.shields.io/badge/author-Amru-Amru?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it public
+Project created by <a href="https://github.com/AMRUSIR">Abu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,7 +28,7 @@ Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it publi
 ----
 
   <p align="center">
-  <a href="https://github.com/Afx-Abu/Sana-Mwol ">
+  <a href="https://github.com/wvfx-windro/AMRU-SER-V2 ">
     <img src="https://img.shields.io/github/repo-size/Afx-Abu/Sana-Mwol?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Afx-Abu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Afx-Abu?color=grey&style=plastic"></a>
@@ -43,7 +42,7 @@ Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it publi
     
 <p align="center">
 
-<a href="https://instagram.com/__Abuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/ff.wvfx?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -60,7 +59,7 @@ Project created by <a href="https://github.com/Afx-Abu">Abu</a> to make it publi
     
 ```
     
-Sana-Mwol Userbot is Open Source software open to development. 
+Amru Ser V2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -101,8 +100,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Afx-Abu/Sana-Mwol
-$ cd Sana-Mwol
+$ git clone https://github.com/wvfx-windro/AMRU-SER-V2
+$ cd AMRU-SER-V1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -125,7 +124,7 @@ Click WA logo to Join Support Group 👇
     <br>
 <br>
 
-<a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
 
