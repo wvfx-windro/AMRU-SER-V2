@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: 'command help menu'}, 
 
     var r_text = new Array ();
     
-    r_text[0] = Config.ALL_IMG
+    r_text[0] = Config.LG_LOGO
     
     var i = Math.floor(1*Math.random())
 
