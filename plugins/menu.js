@@ -10,7 +10,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = " Config.LG_LOGO
+    r_text[0] = Config.LG_LOGO
     
     
     var i = Math.floor(1*Math.random())
